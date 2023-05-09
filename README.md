@@ -57,6 +57,22 @@ components/   (includes all components)
 ├── Tab
 ├── Toggle
 ```
+```
+Pages/   (includes all demo pages)
+├── accordion
+├── alert
+├── badge 
+├── breadcumb
+├── dropdownMenu
+├── listBox
+├── modal
+├── notification
+├── pagination
+├── radioGroup
+├── step
+├── tab
+├── toggle
+```
 
 ## Demo
 Start the Next.js Server
